@@ -1,0 +1,144 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ramenbrush.com" resolutions="1x" timestamp="1598903984845">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="weekchallenge.css" crc="125138246" ref="weekchallenge"/>
+    <file name="nomq_weekchallenge.css" crc="3908390057" ref="weekchallenge"/>
+    <file name="more-about.css" crc="103401125" ref="more-about"/>
+    <file name="nomq_more-about.css" crc="271195550" ref="more-about"/>
+    <file name="artigo.css" crc="257910468" ref="artigo"/>
+    <file name="nomq_artigo.css" crc="3877416427" ref="artigo"/>
+    <file name="index.css" crc="4260601473" ref="index"/>
+    <file name="nomq_index.css" crc="3822573173" ref="index"/>
+    <file name="traditional.css" crc="129175355" ref="traditional"/>
+    <file name="nomq_traditional.css" crc="4235968672" ref="traditional"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:more-about:traditional:artigo:weekchallenge"/>
+    <file name="museutils.js" crc="340535759" ref="index:more-about:traditional:artigo:weekchallenge"/>
+    <file name="whatinput.js" crc="86476730" ref="index:more-about:traditional:artigo:weekchallenge"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:more-about:traditional:artigo:weekchallenge"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:more-about:traditional:artigo:weekchallenge"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:more-about:traditional:artigo:weekchallenge"/>
+    <file name="require.js" crc="7928878" ref="index:more-about:traditional:artigo:weekchallenge"/>
+  </folder>
+  <folder name="images">
+    <file name="ramenbrush-1.png" crc="4151274287" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1290-4.png" crc="3869661259" ref="index"/>
+    <file name="streamline-icon-tablet-1-3@140x140.png" crc="385379030" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="streamline-icon-laptop-workspace-3@140x140.png" crc="4020329527" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u214-4.png" crc="3778428332" ref="index"/>
+    <file name="u224-4.png" crc="265476455" ref="index"/>
+    <file name="u1290-42.png" crc="356898949" ref="index"/>
+    <file name="u214-42.png" crc="420275970" ref="index"/>
+    <file name="u224-42.png" crc="301983257" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:more-about:traditional:artigo:weekchallenge"/>
+    <file name="home-1.png" crc="488786437" seo="true" ref="more-about:traditional:weekchallenge">
+      <caption webpage="traditional" alt=""/>
+      <caption webpage="traditional" alt=""/>
+      <caption webpage="traditional" alt=""/>
+      <caption webpage="more-about" alt=""/>
+      <caption webpage="more-about" alt=""/>
+      <caption webpage="weekchallenge" alt=""/>
+      <caption webpage="weekchallenge" alt=""/>
+    </file>
+    <file name="u250-8.png" crc="32331785" ref="more-about"/>
+    <file name="ramenbrush-3.png" crc="3834644821" seo="true" ref="more-about">
+      <caption webpage="more-about" alt=""/>
+      <caption webpage="more-about" alt=""/>
+    </file>
+    <file name="u250-82.png" crc="4228559893" ref="more-about"/>
+    <file name="u313-4.png" crc="3839558823" ref="traditional"/>
+    <file name="streamline-icon-laptop-workspace-3@140x1402.png" crc="4020329527" seo="true" ref="traditional:artigo">
+      <caption webpage="traditional" alt=""/>
+      <caption webpage="traditional" alt=""/>
+      <caption webpage="traditional" alt=""/>
+      <caption webpage="artigo" alt=""/>
+      <caption webpage="artigo" alt=""/>
+      <caption webpage="artigo" alt=""/>
+    </file>
+    <file name="u377-4.png" crc="4112759944" ref="traditional"/>
+    <file name="unhappy-1.png" crc="4045865338" seo="true" ref="traditional">
+      <caption webpage="traditional" alt=""/>
+      <caption webpage="traditional" alt=""/>
+      <caption webpage="traditional" alt=""/>
+      <caption webpage="traditional" alt=""/>
+      <caption webpage="traditional" alt=""/>
+      <caption webpage="traditional" alt=""/>
+      <caption webpage="traditional" alt=""/>
+      <caption webpage="traditional" alt=""/>
+      <caption webpage="traditional" alt=""/>
+    </file>
+    <file name="u357-4.png" crc="425365162" ref="traditional"/>
+    <file name="ramenbrush-4.png" crc="390486416" seo="true" ref="traditional:artigo:weekchallenge">
+      <caption webpage="traditional" alt=""/>
+      <caption webpage="traditional" alt=""/>
+      <caption webpage="traditional" alt=""/>
+      <caption webpage="weekchallenge" alt=""/>
+      <caption webpage="weekchallenge" alt=""/>
+      <caption webpage="artigo" alt=""/>
+      <caption webpage="artigo" alt=""/>
+      <caption webpage="artigo" alt=""/>
+    </file>
+    <file name="u313-42.png" crc="3839558823" ref="traditional"/>
+    <file name="u377-42.png" crc="3913662883" ref="traditional"/>
+    <file name="u357-42.png" crc="425365162" ref="traditional"/>
+    <file name="u313-43.png" crc="429628217" ref="traditional"/>
+    <file name="u377-43.png" crc="46010751" ref="traditional"/>
+    <file name="u357-43.png" crc="425365162" ref="traditional"/>
+    <file name="home-2.png" crc="488786437" seo="true" ref="artigo">
+      <caption webpage="artigo" alt=""/>
+      <caption webpage="artigo" alt=""/>
+      <caption webpage="artigo" alt=""/>
+    </file>
+    <file name="back.png" crc="249623731" seo="true" ref="artigo">
+      <caption webpage="artigo" alt=""/>
+      <caption webpage="artigo" alt=""/>
+      <caption webpage="artigo" alt=""/>
+    </file>
+    <file name="u432-4.png" crc="391588811" ref="artigo"/>
+    <file name="u447-25.png" crc="106713210" ref="artigo"/>
+    <file name="image 1.png" crc="509622234" seo="true" ref="artigo">
+      <caption webpage="artigo" alt=""/>
+      <caption webpage="artigo" alt=""/>
+    </file>
+    <file name="u469-10.png" crc="256330602" ref="artigo"/>
+    <file name="image 2.png" crc="4050892775" seo="true" ref="artigo">
+      <caption webpage="artigo" alt=""/>
+      <caption webpage="artigo" alt=""/>
+    </file>
+    <file name="u432-42.png" crc="391588811" ref="artigo"/>
+    <file name="u447-252.png" crc="106713210" ref="artigo"/>
+    <file name="u469-102.png" crc="256330602" ref="artigo"/>
+    <file name="u432-43.png" crc="391588811" ref="artigo"/>
+    <file name="u447-253.png" crc="23715836" ref="artigo"/>
+    <file name="image 1224x224.png" crc="3974335538" seo="true" ref="artigo">
+      <caption webpage="artigo" alt=""/>
+    </file>
+    <file name="u469-103.png" crc="3842148373" ref="artigo"/>
+    <file name="image 2222x222.png" crc="3792381283" seo="true" ref="artigo">
+      <caption webpage="artigo" alt=""/>
+    </file>
+    <file name="smile.png" crc="4268902884" seo="true" ref="weekchallenge">
+      <caption webpage="weekchallenge" alt=""/>
+      <caption webpage="weekchallenge" alt=""/>
+    </file>
+    <file name="u609-5.png" crc="4016939021" ref="weekchallenge"/>
+    <file name="u1234-4.png" crc="176070182" ref="weekchallenge"/>
+    <file name="u609-52.png" crc="518456796" ref="weekchallenge"/>
+    <file name="u1234-42.png" crc="176070182" ref="weekchallenge"/>
+  </folder>
+  <file name="index.html" crc="3857738643" seo="true" mt="1598903937867" redirect="true"/>
+  <file name="more-about.html" crc="370572133" seo="true" mt="1598903912334" redirect="true"/>
+  <file name="traditional.html" crc="4118283827" seo="true" mt="1598903912334" redirect="true"/>
+  <file name="artigo.html" crc="255482991" seo="true" mt="1598903912334" redirect="true"/>
+  <file name="weekchallenge.html" crc="415035186" seo="true" mt="1598903912334" redirect="true"/>
+</manifest>
